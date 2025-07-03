@@ -12,8 +12,6 @@ data:extend({
     name = "damascus",
     icon = "__xenroserio__/graphics/icons/damascus.png",
     icon_size = 32,
-    order = "a",
-    subgroup = "intermediate-products",
     stack_size = 200,
     drop_sound = plate_drop_move,
     inventory_move_sound = plate_drop_move,
