@@ -28,4 +28,3 @@ xenroserio.ores.damascus = {
   planets = { "nauvis" },
 }
   xenroserio.ores.damascus.enabled = true
-end
