@@ -9,7 +9,7 @@ xenroserio.damascusore = {
   item = {
     create = true,
     create_variations = true,
-    subgroup = "xenroserio",
+    subgroup = "ores",
   },
   sprite = {
     sheet = 1,
