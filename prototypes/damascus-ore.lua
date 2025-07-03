@@ -1,5 +1,4 @@
 xenroserio.damascusore = {
-  type = "item",
   name = "damascus-ore",
   tint = { r = 0.416, g = 0.38, b = 0.322 },
   map_color = { r = 0.416, g = 0.38, b = 0.322 },
@@ -25,5 +24,6 @@ xenroserio.damascusore = {
   }
 ]]
   --
+  planets = { "nauvis" },
 }  
   xenroserio.damascusore.enabled = true
