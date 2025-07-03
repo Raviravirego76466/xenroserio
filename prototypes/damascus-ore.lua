@@ -24,14 +24,7 @@ xenroserio.ores.damascus = {
   }
 ]]
   --
-  
-function xenroserio.ores.damascus.create_autoplace()({
-    name = "damascus-ore",
-    order = "c",
-    base_density = 4,
-    has_starting_area_placement = false,
-    regular_rq_factor_multiplier = 0.8,
-  })
+
   planets = { "nauvis" },
   xenroserio.ores.damascus.enabled = true
 
