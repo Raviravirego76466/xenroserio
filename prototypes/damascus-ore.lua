@@ -9,6 +9,7 @@ xenroserio.damascusore = {
   item = {
     create = true,
     create_variations = true,
+    subgroup = "intermediate-products",
   },
   sprite = {
     sheet = 1,
