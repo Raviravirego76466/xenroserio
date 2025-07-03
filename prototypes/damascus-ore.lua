@@ -26,5 +26,3 @@ xenroserio.ores.damascus = {
   --
 }  
   xenroserio.ores.damascus.enabled = true
-
-end
