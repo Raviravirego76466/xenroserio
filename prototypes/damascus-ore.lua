@@ -35,4 +35,5 @@ function xenroserio.ores.damascus.create_autoplace()
   })
   planets = { "nauvis" },
   xenroserio.ores.damascus.enabled = true
-  
+
+end
