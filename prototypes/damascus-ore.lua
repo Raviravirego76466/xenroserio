@@ -27,15 +27,5 @@ xenroserio.ores.damascus = {
   autoplace = "control-only",
   planets = { "nauvis" },
 }
-
-function xenroserio.ores.damascus.create_autoplace()
-  data.raw.resource["damascus-ore"].autoplace = bobmods.lib.resource_autoplace.resource_autoplace_settings({
-    name = "damascus-ore",
-    order = "c",
-    base_density = 8,
-    has_starting_area_placement = true,
-    regular_rq_factor_multiplier = 1.1,
-    starting_rq_factor_multiplier = 1.2,
-  })
   xenroserio.ores.damascus.enabled = true
 end
