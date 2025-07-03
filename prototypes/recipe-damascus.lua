@@ -1,7 +1,7 @@
 data:extend({
   {
     type = "recipe",
-    name = "damascus",
+    name = "damascus-recipe",
     category = "smelting",
     energy_required = 3.2,
     emissions_multiplier = 6,
