@@ -1,4 +1,4 @@
-if not bobmods then
+if not xenroserio then
  xenroserio = {}
 end
 
