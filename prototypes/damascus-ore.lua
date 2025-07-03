@@ -1,4 +1,4 @@
-xenroserio.ores.damascus = {
+xenroserio.damascus-ore = {
   name = "damascus-ore",
   tint = { r = 0.416, g = 0.38, b = 0.322 },
   map_color = { r = 0.416, g = 0.38, b = 0.322 },
@@ -25,4 +25,4 @@ xenroserio.ores.damascus = {
 ]]
   --
 }  
-  xenroserio.ores.damascus.enabled = true
+  xenroserio.damascus-ore.enabled = true
