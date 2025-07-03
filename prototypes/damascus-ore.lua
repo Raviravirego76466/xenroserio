@@ -25,8 +25,7 @@ xenroserio.ores.damascus = {
 ]]
   --
   
-function xenroserio.ores.damascus.create_autoplace()
-  data.raw.resource["damascus-ore"].autoplace = xenroserio.lib.resource_autoplace.resource_autoplace_settings({
+function xenroserio.ores.damascus.create_autoplace()({
     name = "damascus-ore",
     order = "c",
     base_density = 4,
