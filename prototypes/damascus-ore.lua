@@ -4,7 +4,7 @@ xenroserio.ores.damascus = {
   map_color = { r = 0.416, g = 0.38, b = 0.322 },
   mining_time = 0.8,
   enabled = false,
-  icon = "__xenroserio__/graphics/icons/xenroserio-ore.png",
+  icon = "__xenroserio__/graphics/icons/damascus-ore.png",
   stage_mult = 100,
   item = {
     create = true,
@@ -24,6 +24,5 @@ xenroserio.ores.damascus = {
   }
 ]]
   --
-  autoplace = "control-only",
   planets = { "nauvis" },
   xenroserio.ores.damascus.enabled = true
