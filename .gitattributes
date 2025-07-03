@@ -13,3 +13,5 @@ README.md export-ignore
 .gitignore export-ignore
 .gitattributes export-ignore
 .releaserc export-ignore
+
+git archive --format zip --prefix xenroserio/ --worktree-attributes --output xenroserio_0.0.1.zip HEAD
