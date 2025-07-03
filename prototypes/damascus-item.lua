@@ -13,7 +13,7 @@ data:extend({
     icon = "__xenroserio__/graphics/icons/damascus.png",
     icon_size = 32,
     subgroup = "xenroserio-items",
-    order = "a",
+    order = "c",
     stack_size = 200,
     drop_sound = plate_drop_move,
     inventory_move_sound = plate_drop_move,
