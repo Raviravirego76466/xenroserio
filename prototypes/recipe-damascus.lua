@@ -3,7 +3,7 @@ data:extend({
     type = "recipe",
     name = "damascus",
     category = "smelting",
-    subgroup = "damascus",
+    subgroup = "xenroserio",
     energy_required = 3.2,
     emissions_multiplier = 6,
     auto_recycle = false,
