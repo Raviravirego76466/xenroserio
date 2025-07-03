@@ -11,4 +11,4 @@ data:extend({
     results = { { type = "item", name = "damascus", amount = 1 } },
     allow_decomposition = false,
     allow_productivity = true,
-  }
+  }})
