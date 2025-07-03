@@ -26,5 +26,4 @@ xenroserio.ores.damascus = {
   --
   autoplace = "control-only",
   planets = { "nauvis" },
-}
   xenroserio.ores.damascus.enabled = true
