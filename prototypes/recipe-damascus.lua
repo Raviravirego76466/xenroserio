@@ -2,7 +2,7 @@ data:extend({
   {
     type = "recipe",
     name = "damascus-recipe",
-    category = "smelting",
+    category = "chemistry",
     energy_required = 3.2,
     emissions_multiplier = 6,
     auto_recycle = false,
